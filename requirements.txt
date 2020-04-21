@@ -3,3 +3,7 @@ seaborn
 matplotlib
 numpy
 scikit-learn
+scipy
+geopandas
+shapely
+opencv
